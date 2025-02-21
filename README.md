@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 
 My Name is Marc,
 I'm A Biomedical Engineering Student at UWaterloo.
