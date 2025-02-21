@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 My Name is Marc,
-I'm a Biomedical Engineering Student at The University of Waterloo passionate about all things Software.
+
+**'Biomedical Engineering Student at UWaterloo'**
+
+
 <!--
 **MarcDasilva/MarcDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
