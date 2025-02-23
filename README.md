@@ -1,19 +1,5 @@
-import BlurText from "./BlurText";
-
-const handleAnimationComplete = () => {
-  console.log('Animation completed!');
-};
 
 # Hello 👋
-
-<BlurText
-  text=\"Hello, I'm Marc 👋\"
-  delay={150}
-  animateBy="words"
-  direction="top"
-  onAnimationComplete={handleAnimationComplete}
-  className="text-2xl mb-8"
-/>
 
 My Name is Marc,  
 I'm A Biomedical Engineering Student at UWaterloo.
