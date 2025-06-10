@@ -3,7 +3,7 @@
  
 <div align = "center" >I'm A Biomedical Engineering Student at UWaterloo.</div>
 
-<br></br>
+<br>
 <div align = "center">
  <img alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
  <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
