@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hey, I'm Marc </h1>
  
-<div align = "center" >I'm A Biomedical Engineering Student at UWaterloo.</div>
+<div align = "center" >I'm A Biomedical Engineering Student at UWaterloo</div>
 
 <br>
 <div align = "center">
