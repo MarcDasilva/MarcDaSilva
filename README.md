@@ -2,7 +2,7 @@
 <h1 align="center"> Hey, I'm Marc </h1>
 <table align = "center" style="border:none;">
   <tr>
-    <td><img src="./croppedgif.gif" width="250"></td>
+    <td style="border:none;"><img src="./croppedgif.gif" width="250"></td>
     <td>
 <div align = "center" >I'm A Biomedical Engineering Student at UWaterloo</div>
 
