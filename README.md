@@ -2,7 +2,7 @@
 
 ![gif](/croppedgifwide.gif)
  
-<h5 align = "center" >I'm a Biomedical Engineering Student at UWaterloo</h5>
+<h4 align = "center" >I'm a Biomedical Engineering Student at UWaterloo</h4>
 
 <br>
 <div align = "center">
