@@ -1,10 +1,10 @@
 
-<h1 align="center"> Hey, I'm Marc </h1>
+<h1 align="center" style="font-size: 48px;"> Hey, I'm Marc </h1>
 <table align = "center" style="border:none;">
   <tr>
     <td style="border:none;"><img src="./croppedgif.gif" width="250"></td>
     <td>
-<div align = "center" >I'm A Biomedical Engineering Student at UWaterloo</div>
+<div align="left" style="font-size: 20px;" >I'm A Biomedical Engineering Student at UWaterloo</div>
 
 <br>
 <div align = "center">
