@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hey, I'm Marc </h1>
-<table align = "center">
+<table align = "center" style="border:none;">
   <tr>
     <td><img src="./croppedgif.gif" width="250"></td>
     <td>
