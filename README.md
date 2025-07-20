@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-size: 48px;"> Hey, I'm Marc </h1>
+<h1 align="center" style="font-size: 90px;"> Hey, I'm Marc </h1>
 <table align = "center" style="border:none;">
   <tr>
     <td style="border:none;"><img src="./croppedgif.gif" width="250"></td>
