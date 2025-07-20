@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Marc </h1>
 
-![gif](/ascii-animation.gif)
+![gif](/croppedgifwide.gif)
  
 <div align = "center" >I'm A Biomedical Engineering Student at UWaterloo</div>
 
