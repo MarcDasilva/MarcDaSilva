@@ -1,8 +1,9 @@
 
 <h1 align="center"> Hey, I'm Marc </h1>
-
-![gif](/ascii-animation.gif)
- 
+<table>
+  <tr>
+    <td><img src="./croppedgif.gif" width="200"></td>
+    <td>
 <div align = "center" >I'm A Biomedical Engineering Student at UWaterloo</div>
 
 <br>
@@ -18,6 +19,9 @@
 <img alt="Xcode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" />
 <img alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
+    </td>
+  </tr>
+</table>
 
 <!--
 **MarcDasilva/MarcDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
