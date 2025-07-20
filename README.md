@@ -4,7 +4,7 @@
   <tr>
     <td style="border:none;"><img src="./croppedgif.gif" width="250"></td>
     <td>
-<div align="left" style="font-size: 20px;" >I'm A Biomedical Engineering Student at UWaterloo</div>
+<h1 align="left" style="font-size: 20px;" >I'm A Biomedical Engineering Student at UWaterloo</h1>
 
 <br>
 <div align = "center">
