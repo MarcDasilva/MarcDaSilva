@@ -20,7 +20,11 @@
   <img alt="Xcode" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" />
   <img alt="React" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Rails" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+  <img alt="Supabase" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
+  <img alt="PostgreSQL" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
+
 
 
 
