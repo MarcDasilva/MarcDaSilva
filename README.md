@@ -3,7 +3,7 @@
 ![gif](/croppedgifwide.gif)
  
 <div align="center">
-  <strong>I'm a Biomedical Engineering Student at UWaterloo</strong>
+  <strong>BME @ University of Waterloo</strong>
 </div>
 
 <br>
