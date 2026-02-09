@@ -3,7 +3,7 @@
 ![gif](/croppedgifwide.gif)
  
 <div align="center">
-  <strong>BME @ University of Waterloo</strong>
+  <strong>BME + SE @ University of Waterloo</strong>
 </div>
 
 <br>
