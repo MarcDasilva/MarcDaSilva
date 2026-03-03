@@ -3,7 +3,7 @@
 ![gif](/croppedgifwide.gif)
  
 <div align="center">
-  <strong>BME + SE @ University of Waterloo</strong>
+  <strong>BME + SE @ University of Waterloo | 5x Hackathon Winner</strong>
 </div>
 
 <br>
