@@ -3,27 +3,10 @@
 ![gif](/croppedgifwide.gif)
  
 <div align="center">
-  <strong>BME + SE @ University of Waterloo | 7x Hackathon Winner</strong>
+  <strong>Biomedical + Software Engineering @ University of Waterloo | 7x Hackathon Winner</strong>
 </div>
 
 <br>
-<div align="center">
-  <img alt="C++" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Python" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Ruby" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
-  <img alt="Java" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="HTML" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="TypeScript" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img alt="JavaScript" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="Swift" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img alt="Xcode" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" />
-  <img alt="React" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Rails" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-  <img alt="Supabase" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
-  <img alt="PostgreSQL" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MongoDB" width="40px" style="padding-right:10px; filter: grayscale(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</div>
 
 
 
