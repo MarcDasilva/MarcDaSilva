@@ -4,7 +4,7 @@
  
 <div align="center">
   <strong>Biomedical + Software Engineering @ University of Waterloo</strong><br>
-  <strong>10x Hackathon Winner</strong>
+  <strong>11x Hackathon Winner</strong>
 </div>
 <br>
 
