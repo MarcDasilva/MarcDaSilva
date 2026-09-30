@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Marc </h1>
+<h1 align="center">Marc Da Silva</h1>
 
 ![gif](/croppedgifwide.gif)
  
